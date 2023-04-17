@@ -1,0 +1,41 @@
+{
+    "onGoingBets": [
+        {
+            "bettor1": "current 1",
+            "bettor2": "test2",
+            "description": "123",
+            "reward": "1 boba"
+        },
+        {
+            "bettor1": "current 2",
+            "bettor2": "test2",
+            "description": "456",
+            "reward": "1 boba"
+        }
+    ],
+    "previousBets": [
+        {
+            "bettor1": "previous 1",
+            "bettor2": "test2",
+            "description": "777",
+            "reward": "1 boba"
+        },
+        {
+            "bettor1": "previous 2",
+            "bettor2": "test2",
+            "description": "888",
+            "reward": "1 boba"
+        }
+    ],
+    "members": [
+        {
+            "name": "tester",
+            "owe_list": [
+                {
+                    "owe": "1 boba",
+                    "person": "Tuan"
+                }
+            ]
+        }
+    ]
+}
